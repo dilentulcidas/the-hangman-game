@@ -1,6 +1,6 @@
-![alt text](https://raw.githubusercontent.com/dilentulcidas/Projects/master/Hangman/githubimages/hangmanheader.png "Hangman Header")
+![alt text](https://raw.githubusercontent.com/dilentulcidas/the-hangman-game/master/githubimages/hangmanheader.png "Hangman Header")
 
-![alt text](https://raw.githubusercontent.com/dilentulcidas/Projects/master/Hangman/githubimages/hangmanscreenshots.png "Hangman screenshots")
+![alt text](https://raw.githubusercontent.com/dilentulcidas/the-hangman-game/master/githubimages/hangmanscreenshots.png "Hangman screenshots")
 
 # Description
 This is the source code for simple Hangman game using Java and JavaFX powering the user interface. The user also has the additional option of saving the game or not.
